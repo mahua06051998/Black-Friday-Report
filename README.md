@@ -5,5 +5,7 @@ They want to build a model to predict the purchase amount of customer against va
 I have build a model using 3 machine learning algorithm
 
 1: Multilinear Regression
-2: Desicion Forest
-3: Random Forest
+
+2: Decision Forest Regression
+
+3: Random Forest Regression
